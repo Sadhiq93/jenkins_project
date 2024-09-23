@@ -1,0 +1,11 @@
+project
+|-- .mvn
+|   |-- jvm.config
+|   `-- maven.config
+|-- pom.xml
+`-- src
+    `-- main
+        `-- webapp
+            |-- WEB-INF
+            |   `-- web.xml
+            `-- index.jsp
